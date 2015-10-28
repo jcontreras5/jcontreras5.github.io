@@ -1,0 +1,87 @@
+body{background-color:black;	}
+
+.container{background-color: black;}
+
+header{margin: auto;}
+footer{margin: auto;
+text-align: justify;}
+h1{color: #F15152;}
+
+h3{text-align: justify;
+text-decoration:underline;
+color: #DB324D;}
+
+hr{display: block;
+	border-color:#495867;}
+
+p{color: white;
+margin: auto;
+text-align: justify;}
+
+#HOME{margin: auto;
+	position: relative;}
+
+
+div.col-md-8{
+							background-color: inherit;
+							margin: auto,auto;
+							width: 100%;
+							border-radius: 300px;}
+
+.row-eq-height {
+							display: -webkit-box;
+							display: -webkit-flex;
+							display: -ms-flexbox;
+							display: flex;
+							height:auto;}
+
+.middle{vertical-align: middle;}
+
+
+#Title{
+	position: relative;
+}
+
+img#Night{width: 500px;
+								height: 500px;
+								margin: auto auto;
+								border-radius: 500px;
+								position: absolute;
+								display: block;
+								z-index: 0;}
+								
+
+img#FLINTRECORDS{vertical-align: middle;
+					display: block;}
+
+
+img#WhiteVinyl{height: 200px;
+				width: auto;}		
+
+
+img#FLINT{display: block;
+		margin: 40px 200px ;
+		width: 300px;
+		position:absolute;
+		z-index: 100;}
+
+
+
+
+a:hover {font-weight: bold;
+		color: #FF59A3;}
+
+a:visited{color: #57F7FF;}
+
+a:active{color: white;}
+
+
+.nav, .nav-tabs > li.active > a, .nav-tabs > li.active > 
+a:hover,.nav-tabs > li.active > a:focus, .nav-tabs > li > a {
+							border: none;
+							background-color: black;
+							}
+
+
+
+
