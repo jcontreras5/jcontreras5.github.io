@@ -1,10 +1,12 @@
 body{background-color:black;	}
 
-.container{background-color: black;}
+.container{background-color: transparent;}
 
 header{margin: auto;}
+
 footer{margin: auto;
 text-align: justify;}
+
 h1{color: #F15152;}
 
 h3{text-align: justify;
@@ -19,7 +21,10 @@ margin: auto;
 text-align: justify;}
 
 #HOME{margin: auto;
-	position: relative;}
+	position: static;}
+
+#Title{position: static;}
+
 
 
 div.col-md-8{
@@ -38,9 +43,6 @@ div.col-md-8{
 .middle{vertical-align: middle;}
 
 
-#Title{
-	position: relative;
-}
 
 img#Night{width: 500px;
 								height: 500px;
@@ -80,6 +82,10 @@ a:active{color: white;}
 a:hover,.nav-tabs > li.active > a:focus, .nav-tabs > li > a {
 							border: none;
 							background-color: black;
+							margin: auto;}
+							
+
+
 							}
 
 
