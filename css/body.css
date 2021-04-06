@@ -1,0 +1,24 @@
+body{background-color: rgb(177, 76, 76);
+    height:100vh;
+    width: auto;}
+
+#form{padding: auto auto;
+margin: auto auto;}
+
+h1{
+    text-align: center;
+}
+
+#logo{display: block;
+    width:unset;}
+
+#navbar_header{
+    background-color: black;
+}
+
+
+#Selfie{ display:block;
+    height:300px;
+    width: auto;
+    
+}
